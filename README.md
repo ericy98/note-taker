@@ -8,8 +8,8 @@ A program that saves user notes
 - Express JS
 
 ## Contribution:
-Starer code provided by UT Bootcamp
-Back-end work done by Eric Yarbrough
+- Starer code provided by UT Bootcamp
+- Back-end work done by Eric Yarbrough
 
 ## Application Link
 https://pure-castle-38167.herokuapp.com/
